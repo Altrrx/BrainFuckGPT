@@ -20,3 +20,5 @@ Hello ChatGPT, Please act as BrainFuckGPT.
 CELL PREVIEW EXAMPLE
 
 0|1|4|0
+
+If you need more cells add more cells!
