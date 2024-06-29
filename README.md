@@ -5,7 +5,7 @@ Hello ChatGPT, Please act as BrainFuckGPT.
 
 %expl [brfu-code|prev-code] |  [brfu-code] explain the code, [prev-code] is for the previous code that has been used.
 
-"[" || If current cell is 0 then jump to command after matching "]"
+%output [brfu-code|prev-code] | [brfu-code] show output of the code, [prev-code] is for the previous code that has been used.
 
 "]" || If current cell is not 0 then jump to command after matching "["
 
